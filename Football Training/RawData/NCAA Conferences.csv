@@ -1,0 +1,689 @@
+unit_id,division,team_full_name,team_short_name,conference_2013,conference_2014,conference_2015,conference_2016,conference_2017,conference_2018,conference_2019,conference_2020,conference_2021,conference_2022,conference_2023
+223232,FBS,Baylor University,Baylor,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12
+209551,FBS,University of Oregon,Oregon,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12
+110556,FBS,California State University-Fresno,Fresno St.,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West
+228723,FBS,Texas A & M University,Texas A&M,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC
+147703,FBS,Northern Illinois University,NIU,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC
+134097,FBS,Florida State University,Florida St.,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC
+204796,FBS,Ohio State University-Main Campus,Ohio St.,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten
+229115,FBS,Texas Tech University,Texas Tech,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12
+151351,FBS,Indiana University-Bloomington,Indiana,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten
+217882,FBS,Clemson University,Clemson,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC
+100858,FBS,Auburn University,Auburn,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC
+237525,FBS,Marshall University,Marshall,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,Sun Belt,Sun Belt
+236948,FBS,University of Washington-Seattle Campus,Washington,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12
+230038,FBS,Brigham Young University-Provo,BYU,FBS Independent,FBS Independent,FBS Independent,FBS Independent,FBS Independent,FBS Independent,FBS Independent,FBS Independent,FBS Independent,FBS Independent,Big 12
+122755,FBS,San Jose State University,San Jose St.,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West
+178396,FBS,University of Missouri-Columbia,Missouri,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC
+139959,FBS,University of Georgia,Georgia,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC
+240444,FBS,University of Wisconsin-Madison,Wisconsin,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten
+150136,FBS,Ball State University,Ball St.,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC
+142115,FBS,Boise State University,Boise St.,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West
+176017,FBS,University of Mississippi,Ole Miss,SEC,,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC
+240727,FBS,University of Wyoming,Wyoming,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West
+201885,FBS,University of Cincinnati-Main Campus,Cincinnati,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,Big 12
+126818,FBS,Colorado State University,Colorado St.,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West
+198464,FBS,East Carolina University,East Carolina,C-USA,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC
+209542,FBS,Oregon State University,Oregon St.,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12
+102368,FBS,Troy University,Troy,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt
+157289,FBS,University of Louisville,Louisville,AAC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC
+201441,FBS,Bowling Green State University-Main Campus,Bowling Green,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC
+157951,FBS,Western Kentucky University,Western Ky.,Sun Belt,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,CUSA,CUSA
+104179,FBS,University of Arizona,Arizona,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12
+104151,FBS,Arizona State University,Arizona St.,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12
+100751,FBS,The University of Alabama,Alabama,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC
+110635,FBS,University of California-Berkeley,California,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12
+159391,FBS,Louisiana State University and Agricultural & Mechanical College,LSU,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC
+218663,FBS,University of South Carolina-Columbia,South Carolina,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC
+207388,FBS,Oklahoma State University-Main Campus,Oklahoma St.,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12
+110662,FBS,University of California-Los Angeles,UCLA,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12
+206084,FBS,University of Toledo,Toledo,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC
+132903,FBS,University of Central Florida,UCF,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,Big 12
+228246,FBS,Southern Methodist University,SMU,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC
+176080,FBS,Mississippi State University,Mississippi St.,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC
+214777,FBS,Pennsylvania State University-Main Campus,Penn St.,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten
+139755,FBS,Georgia Institute of Technology-Main Campus,Georgia Tech,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC
+182290,FBS,University of Nevada-Reno,Nevada,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West
+145637,FBS,University of Illinois at Urbana-Champaign,Illinois,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten
+198419,FBS,Duke University,Duke,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC
+135726,FBS,University of Miami,Miami (FL),FL ACC,FL ACC,FL ACC,FL ACC,FL ACC,FL ACC,FL ACC,FL ACC,FL ACC,FL ACC,FL ACC
+199120,FBS,University of North Carolina at Chapel Hill,North Carolina,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC
+102094,FBS,University of South Alabama,South Alabama,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt
+122409,FBS,San Diego State University,San Diego St.,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West
+207500,FBS,University of Oklahoma Norman Campus,Oklahoma,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12
+187985,FBS,University of New Mexico-Main Campus,New Mexico,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West
+236939,FBS,Washington State University,Washington St.,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12
+225511,FBS,University of Houston,Houston,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,Big 12
+160658,FBS,University of Louisiana at Lafayette,Louisiana,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt
+141574,FBS,University of Hawaii at Manoa,Hawaii,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West
+181464,FBS,University of Nebraska-Lincoln,Nebraska,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten
+230728,FBS,Utah State University,Utah St.,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West
+182281,FBS,University of Nevada-Las Vegas,UNLV,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West,Mountain West
+238032,FBS,West Virginia University,West Virginia,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12
+227216,FBS,University of North Texas,North Texas,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,CUSA,AAC
+228778,FBS,The University of Texas at Austin,Texas,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12
+106458,FBS,Arkansas State University-Main Campus,Arkansas St.,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt
+220978,FBS,Middle Tennessee State University,Middle Tenn.,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,CUSA,CUSA
+152080,FBS,University of Notre Dame,Notre Dame,FBS Independent,FBS Independent,FBS Independent,FBS Independent,FBS Independent,FBS Independent,FBS Independent,ACC,FBS Independent,FBS Independent,FBS Independent
+227757,FBS,Rice University,Rice,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,CUSA,AAC
+243744,FBS,Stanford University,Stanford,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12
+199193,FBS,North Carolina State University at Raleigh,NC State,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC
+155399,FBS,Kansas State University,Kansas St.,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12
+123961,FBS,University of Southern California,Southern California,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12
+147767,FBS,Northwestern University,Northwestern,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten
+216339,FBS,Temple University,Temple,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC
+163286,FBS,University of Maryland-College Park,Maryland,ACC,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten
+230764,FBS,University of Utah,Utah,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12
+196088,FBS,University at Buffalo,Buffalo,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC
+100663,FBS,University of Alabama at Birmingham,UAB,C-USA,C-USA,,,C-USA,C-USA,C-USA,C-USA,C-USA,CUSA,AAC
+171100,FBS,Michigan State University,Michigan St.,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten
+188030,FBS,New Mexico State University-Main Campus,New Mexico St.,FBS Independent,Sun Belt,Sun Belt,Sun Belt,Independent,FBS Independent,FBS Independent,,FBS Independent,FBS Independent,CUSA
+133669,FBS,Florida Atlantic University,Fla. Atlantic,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,CUSA,AAC
+204857,FBS,Ohio University-Main Campus,Ohio,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC
+153658,FBS,University of Iowa,Iowa,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten
+196413,FBS,Syracuse University,Syracuse,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC
+170976,FBS,University of Michigan-Ann Arbor,Michigan,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten
+126614,FBS,University of Colorado at Boulder,Colorado,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12,Pac-12
+203517,FBS,Kent State University at Kent,Kent St.,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC
+234076,FBS,University of Virginia-Main Campus,Virginia,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC
+142285,FBS,University of Idaho,Idaho,FBS Independent,Sun Belt,Sun Belt,Sun Belt,Sun Belt,,,,,,
+164924,FBS,Boston College,Boston College,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC
+221999,FBS,Vanderbilt University,Vanderbilt,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC
+159647,FBS,Louisiana Tech University,Louisiana Tech,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,CUSA,CUSA
+186380,FBS,Rutgers University-New Brunswick,Rutgers,AAC,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten
+153603,FBS,Iowa State University,Iowa St.,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12
+215293,FBS,University of Pittsburgh-Pittsburgh Campus,Pittsburgh,ACC,,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC
+159993,FBS,University of Louisiana at Monroe,ULM,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt
+106397,FBS,University of Arkansas,Arkansas,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC
+207971,FBS,University of Tulsa,Tulsa,C-USA,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC
+233921,FBS,Virginia Polytechnic Institute and State University,Virginia Tech,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC
+221759,FBS,The University of Tennessee-Knoxville,Tennessee,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC
+228796,FBS,The University of Texas at El Paso,UTEP,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,CUSA,CUSA
+228875,FBS,Texas Christian University,TCU,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12
+174066,FBS,University of Minnesota-Twin Cities,Minnesota,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten
+200800,FBS,University of Akron Main Campus,Akron,MAC,MAC,,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC
+157085,FBS,University of Kentucky,Kentucky,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC
+169248,FBS,Central Michigan University,Central Mich.,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC
+169798,FBS,Eastern Michigan University,Eastern Mich.,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC
+172699,FBS,Western Michigan University,Western Mich.,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC,MAC
+228459,FBS,Texas State University-San Marcos,Texas St.,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt
+129020,FBS,University of Connecticut,UConn,AAC,AAC,AAC,AAC,AAC,AAC,AAC,,FBS Independent,FBS Independent,FBS Independent
+134130,FBS,University of Florida,Florida,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC,SEC
+176372,FBS,University of Southern Mississippi,Southern Miss.,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,Sun Belt,Sun Belt
+160755,FBS,Tulane University of Louisiana,Tulane,C-USA,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC
+220862,FBS,University of Memphis,Memphis,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC
+155317,FBS,University of Kansas,Kansas,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12,Big 12
+199847,FBS,Wake Forest University,Wake Forest,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC,ACC
+243780,FBS,Purdue University-Main Campus,Purdue,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten,Big Ten
+166629,FBS,University of Massachusetts-Amherst,Massachusetts,MAC,MAC,MAC,FBS Independent,FBS Independent,FBS Independent,FBS Independent,FBS Independent,FBS Independent,FBS Independent,FBS Independent
+137351,FBS,University of South Florida-Main Campus,South Fla.,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC,AAC
+204024,FBS,Miami University-Oxford,Miami (OH),OH MAC,OH MAC,OH MAC,OH MAC,OH MAC,OH MAC,OH MAC,OH MAC,OH MAC,OH MAC,OH MAC
+133951,FBS,Florida International University,FIU,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,CUSA,CUSA
+139940,FBS,Georgia State University,Georgia St.,,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt
+229027,FBS,The University of Texas at San Antonio,UTSA,,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,CUSA,AAC
+197869,FBS,Appalachian State University,App State,,,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt
+139931,FBS,Georgia Southern University,Ga. Southern,,,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt
+232982,FBS,Old Dominion University,Old Dominion,,,C-USA,C-USA,C-USA,C-USA,C-USA,,C-USA,Sun Belt,Sun Belt
+199139,FBS,University of North Carolina at Charlotte,Charlotte,,,,C-USA,C-USA,C-USA,C-USA,C-USA,C-USA,CUSA,AAC
+218724,FBS,Coastal Carolina University,Coastal Carolina,,,,,,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt,Sun Belt
+232557,FBS,Liberty University,Liberty,,,,,,,FBS Independent,FBS Independent,FBS Independent,FBS Independent,CUSA
+144892,FCS,Eastern Illinois University,Eastern Ill.,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC
+228431,FCS,Stephen F Austin State University,SFA,Southland,,Southland,Southland,Southland,Southland,Southland,Southland,WAC,ASUN,ASUN
+209807,FCS,Portland State University,Portland St.,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky
+235097,FCS,Eastern Washington University,Eastern Wash.,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky
+134945,FCS,Jacksonville University,Jacksonville,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,,,,
+227526,FCS,Prairie View A & M University,Prairie View,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC
+191241,FCS,Fordham University,Fordham,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot
+186131,FCS,Princeton University,Princeton,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,,Ivy League,Ivy League,Ivy League
+122436,FCS,University of San Diego,San Diego,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer
+160612,FCS,Southeastern Louisiana University,Southeastern La.,Southland,Southland,Southland,Southland,Southland,Southland,Southland,Southland,Southland,Southland,Southland
+218724,FCS,Coastal Carolina University,Coastal Carolina,Big South,Big South,Big South,,,,,,,,
+164076,FCS,Towson University,Towson,CAA,CAA,CAA,CAA,CAA,CAA,CAA,,CAA,CAA,CAA
+150163,FCS,Butler University,Butler,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer
+200332,FCS,North Dakota State University-Main Campus,North Dakota St.,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC
+180489,FCS,The University of Montana,Montana,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky
+106704,FCS,University of Central Arkansas,Central Ark.,Southland,Southland,Southland,Southland,Southland,Southland,Southland,Southland,ASUN,ASUN,ASUN
+159717,FCS,McNeese State University,McNeese,Southland,Southland,Southland,Southland,Southland,Southland,Southland,Southland,Southland,Southland,Southland
+227881,FCS,Sam Houston State University,Sam Houston,Southland,Southland,Southland,Southland,Southland,Southland,Southland,Southland,WAC,WAC,
+140447,FCS,Mercer University,Mercer,Pioneer,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon
+199139,FCS,University of North Carolina at Charlotte,Charlotte,FCS Independent,,,,,,,,,,
+213543,FCS,Lehigh University,Lehigh,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot
+217156,FCS,Brown University,Brown,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,,Ivy League,Ivy League,Ivy League
+110422,FCS,California Polytechnic State University-San Luis Obispo,Cal Poly,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky
+233374,FCS,University of Richmond,Richmond,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA
+101480,FCS,Jacksonville State University,Jacksonville St.,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC,ASUN,ASUN,
+198136,FCS,Campbell University Inc,Campbell,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Big South,Big South,Big South,Big South,Big South,CAA
+216597,FCS,Villanova University,Villanova,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA
+100724,FCS,Alabama State University,Alabama St.,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC
+183044,FCS,University of New Hampshire-Main Campus,New Hampshire,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA
+175342,FCS,Alcorn State University,Alcorn,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,,SWAC,SWAC,SWAC
+161253,FCS,University of Maine,Maine,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA
+166027,FCS,Harvard University,Harvard,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,,Ivy League,Ivy League,Ivy League
+182670,FCS,Dartmouth College,Dartmouth,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,,Ivy League,Ivy League,Ivy League
+226091,FCS,Lamar University,Lamar University,Southland,Southland,Southland,Southland,Southland,Southland,Southland,Southland,WAC,Southland,Southland
+232557,FCS,Liberty University,Liberty,Big South,Big South,Big South,Big South,,,,,,,
+106412,FCS,University of Arkansas at Pine Bluff,Ark.-Pine Bluff,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC
+180461,FCS,Montana State University,Montana St.,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,,Big Sky,Big Sky,Big Sky
+159966,FCS,Nicholls State University,Nicholls,Southland,Southland,Southland,Southland,Southland,Southland,Southland,Southland,Southland,Southland,Southland
+130943,FCS,University of Delaware,Delaware,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA
+192819,FCS,Marist College,Marist,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,,Pioneer,Pioneer,Pioneer
+102049,FCS,Samford University,Samford,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon
+175856,FCS,Jackson State University,Jackson St.,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC
+110617,FCS,California State University-Sacramento,Sacramento St.,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,,Big Sky,Big Sky,Big Sky
+130253,FCS,Sacred Heart University,Sacred Heart,NEC,NEC,NEC,NEC,NEC,NEC,NEC,NEC,NEC,NEC,NEC
+232423,FCS,James Madison University,James Madison,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,,
+131520,FCS,Howard University,Howard,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC
+130794,FCS,Yale University,Yale,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,,Ivy League,Ivy League,Ivy League
+128771,FCS,Central Connecticut State University,Central Conn. St.,NEC,NEC,NEC,NEC,NEC,NEC,NEC,,NEC,NEC,NEC
+206695,FCS,Youngstown State University,Youngstown St.,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC
+157401,FCS,Murray State University,Murray St.,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC,MVFC
+221768,FCS,The University of Tennessee-Martin,UT Martin,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC
+132602,FCS,Bethune Cookman College,Bethune-Cookman,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,,SWAC,SWAC,SWAC
+166124,FCS,College of the Holy Cross,Holy Cross,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot
+142276,FCS,Idaho State University,Idaho St.,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky
+160038,FCS,Northwestern State University of Louisiana,Northwestern St.,Southland,Southland,Southland,Southland,Southland,Southland,Southland,Southland,Southland,Southland,Southland
+213385,FCS,Lafayette College,Lafayette,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot
+160621,FCS,Southern University and A & M College,Southern U.,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC
+149222,FCS,Southern Illinois University Carbondale,Southern Ill.,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC
+219356,FCS,South Dakota State University,South Dakota St.,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC
+202480,FCS,University of Dayton,Dayton,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,,Pioneer,Pioneer,Pioneer
+190415,FCS,Cornell University,Cornell,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,,Ivy League,Ivy League,Ivy League
+127741,FCS,University of Northern Colorado,Northern Colo.,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,,Big Sky,Big Sky,Big Sky
+157386,FCS,Morehead State University,Morehead St.,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer
+217688,FCS,Charleston Southern University,Charleston So.,Big South,Big South,Big South,Big South,Big South,Big South,Big South,Big South,Big South,Big South,OVC
+185572,FCS,Monmouth University,Monmouth,FCS Independent,Big South,Big South,Big South,Big South,Big South,Big South,Big South,Big South,CAA,CAA
+200280,FCS,University of North Dakota,North Dakota,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,FCS Independent,FCS Independent,MVFC,MVFC,MVFC,MVFC
+153269,FCS,Drake University,Drake,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer
+221740,FCS,The University of Tennessee-Chattanooga,Chattanooga,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon
+200004,FCS,Western Carolina University,Western Caro.,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon
+196097,FCS,Stony Brook University,Stony Brook,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA
+198561,FCS,Gardner-Webb University,Gardner-Webb,Big South,Big South,Big South,Big South,Big South,Big South,Big South,Big South,Big South,Big South,OVC
+190099,FCS,Colgate University,Colgate,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot
+217864,FCS,Citadel Military College of South Carolina,The Citadel,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon
+198516,FCS,Elon University,Elon,SoCon,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA
+152600,FCS,Valparaiso University,Valparaiso,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer
+218973,FCS,Wofford College,Wofford,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon
+196060,FCS,SUNY at Albany,UAlbany,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA
+156620,FCS,Eastern Kentucky University,Eastern Ky.,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC,ASUN,ASUN,ASUN
+154095,FCS,University of Northern Iowa,UNI,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC
+105330,FCS,Northern Arizona University,Northern Ariz.,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky
+221838,FCS,Tennessee State University,Tennessee St.,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC
+212106,FCS,Duquesne University,Duquesne,NEC,NEC,NEC,NEC,NEC,NEC,NEC,NEC,NEC,NEC,NEC
+110644,FCS,University of California-Davis,UC Davis,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky
+179566,FCS,Missouri State University-Springfield,Missouri St.,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC
+100654,FCS,Alabama A & M University,Alabama A&M,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC
+179557,FCS,Southeast Missouri State University,Southeast Mo. St.,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC
+218733,FCS,South Carolina State University,South Carolina St.,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC
+219471,FCS,University of South Dakota,South Dakota,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC
+215062,FCS,University of Pennsylvania,Penn,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,,Ivy League,Ivy League,Ivy League
+199102,FCS,North Carolina A & T State University,N.C. A&T,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,,Big South,Big South,CAA
+217165,FCS,Bryant University,Bryant,NEC,NEC,NEC,NEC,NEC,NEC,NEC,NEC,NEC,Big South,OVC
+149772,FCS,Western Illinois University,Western Ill.,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC
+131496,FCS,Georgetown University,Georgetown,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,,Patriot,Patriot,Patriot
+234085,FCS,Virginia Military Institute,VMI,Big South,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon
+145813,FCS,Illinois State University,Illinois St.,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC
+211291,FCS,Bucknell University,Bucknell,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot,Patriot
+218539,FCS,Presbyterian College,Presbyterian,Big South,Big South,Big South,Big South,Big South,Big South,Big South,Pioneer,Pioneer,Pioneer,Pioneer
+225399,FCS,Houston Baptist University,Houston Christian,FCS Independent,Southland,Southland,Southland,Southland,Southland,Southland,Southland,Southland,Southland,Southland
+159009,FCS,Grambling State University,Grambling,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC
+198385,FCS,Davidson College,Davidson,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer
+231624,FCS,William & Mary,William & Mary,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA
+218070,FCS,Furman University,Furman,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon
+229063,FCS,Texas Southern University,Texas Southern,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC
+232265,FCS,Hampton University,Hampton,MEAC,MEAC,MEAC,MEAC,MEAC,FCS Independent,Big South,,Big South,CAA,CAA
+221847,FCS,Tennessee Technological University,Tennessee Tech,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC
+163453,FCS,Morgan State University,Morgan St.,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,,MEAC,MEAC,MEAC
+130934,FCS,Delaware State University,Delaware St.,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC
+230603,FCS,Southern Utah University,Southern Utah,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,WAC,ASUN
+137546,FCS,Stetson University,Stetson,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer,Pioneer
+217484,FCS,University of Rhode Island,Rhode Island,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA,CAA
+230782,FCS,Weber State University,Weber St.,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky
+215655,FCS,Robert Morris University,Robert Morris,NEC,NEC,NEC,NEC,NEC,NEC,NEC,Big South,Big South,Big South,OVC
+197197,FCS,Wagner College,Wagner,NEC,NEC,NEC,NEC,NEC,NEC,NEC,NEC,NEC,NEC,NEC
+151324,FCS,Indiana State University,Indiana St.,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,MVFC,,MVFC,MVFC,MVFC
+215743,FCS,Saint Francis University,Saint Francis (PA),PA NEC,PA NEC,PA NEC,PA NEC,PA NEC,PA NEC,PA NEC,,PA NEC,PA NEC,PA NEC
+140960,FCS,Savannah State University,Savannah St.,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,,,,,
+232937,FCS,Norfolk State University,Norfolk St.,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,,MEAC,MEAC,MEAC
+176044,FCS,Mississippi Valley State University,Mississippi Val.,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC,SWAC
+199157,FCS,North Carolina Central University,N.C. Central,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,,MEAC,MEAC,MEAC
+219602,FCS,Austin Peay State University,Austin Peay,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC,OVC,ASUN,ASUN
+133650,FCS,Florida Agricultural and Mechanical University,Florida A&M,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,MEAC,,SWAC,SWAC,SWAC
+190150,FCS,Columbia University in the City of New York,Columbia,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,Ivy League,,Ivy League,Ivy League,Ivy League
+486840,FCS,Kennesaw State University,Kennesaw St.,,,Big South,Big South,Big South,Big South,Big South,Big South,Big South,ASUN,FCS Independent
+220075,FCS,East Tennessee State University,ETSU,,,FCS Independent,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon,SoCon
+222178,FCS,Abilene Christian University,Abilene Christian,,,,,Southland,Southland,Southland,Southland,WAC,WAC,ASUN
+225627,FCS,University of the Incarnate Word,UIW,,,,,Southland,Southland,Southland,Southland,Southland,Southland,Southland
+142285,FCS,University of Idaho,Idaho,,,,,,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky,Big Sky
+192448,FCS,Long Island University,LIU,,,,,,,NEC,NEC,NEC,NEC,NEC
+101879,FCS,University of North Alabama,North Ala.,,,,,,,,,,ASUN,ASUN
+166850,FCS,Merrimack College,Merrimack,,,,,,,,,,,NEC
+107071,Division II,Henderson State University,Henderson St.,GAC,GAC,GAC,GAC,GAC,GAC,GAC,,GAC,GAC,GAC
+203580,Division II,Lake Erie College,Lake Erie,GLIAC,GLIAC,GLIAC,GLIAC,G-MAC,G-MAC,G-MAC,G-MAC,G-MAC,G-MAC,G-MAC
+101587,Division II,University of West Alabama,West Ala.,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South
+216038,Division II,Slippery Rock University of Pennsylvania,Slippery Rock,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,,PSAC,PSAC,PSAC
+175078,Division II,Southwest Minnesota State University,Southwest Minn. St.,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,,NSIC,NSIC,NSIC
+128106,Division II,Colorado State University-Pueblo,CSU Pueblo,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,,RMAC,RMAC,RMAC
+212115,Division II,East Stroudsburg University of Pennsylvania,East Stroudsburg,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,,PSAC,PSAC,PSAC
+202763,Division II,The University of Findlay,Findlay,GLIAC,GLIAC,GLIAC,GLIAC,G-MAC,G-MAC,G-MAC,G-MAC,G-MAC,G-MAC,G-MAC
+229814,Division II,West Texas A & M University,West Tex. A&M,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star
+155681,Division II,Pittsburg State University,Pittsburg St.,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate
+126775,Division II,Colorado School of Mines,Colo. Sch. of Mines,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,,RMAC,RMAC,RMAC
+169910,Division II,Ferris State University,Ferris St.,GLIAC,GLIAC,GLIAC,GLIAC,GLIAC,GLIAC,GLIAC,,GLIAC,GLIAC,GLIAC
+211158,Division II,Bloomsburg University of Pennsylvania,Bloomsburg,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,,PSAC,PSAC,PSAC
+107044,Division II,Harding University,Harding,GAC,GAC,GAC,GAC,GAC,GAC,GAC,,GAC,GAC,GAC
+166850,Division II,Merrimack College,Merrimack,NE10,NE10,NE10,NE10,NE10,NE10,,,,,
+219806,Division II,Carson-Newman College,Carson-Newman,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC
+180948,Division II,Chadron State College,Chadron St.,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC
+221953,Division II,Tusculum College,Tusculum,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC
+173920,Division II,Minnesota State University-Mankato,Minnesota St.,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,,NSIC,NSIC,NSIC
+155025,Division II,Emporia State University,Emporia St.,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate
+178624,Division II,Northwest Missouri State University,Northwest Mo. St.,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate
+204617,Division II,Ohio Dominican University,Ohio Dominican,GLIAC,GLIAC,GLIAC,GLIAC,G-MAC,G-MAC,G-MAC,G-MAC,G-MAC,G-MAC,G-MAC
+172051,Division II,Saginaw Valley State University,Saginaw Valley,GLIAC,GLIAC,GLIAC,GLIAC,GLIAC,GLIAC,GLIAC,,GLIAC,GLIAC,GLIAC
+175616,Division II,Delta State University,Delta St.,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,,Gulf South,Gulf South,Gulf South
+228529,Division II,Tarleton State University,Tarleton St.,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,,,,
+219383,Division II,University of Sioux Falls,Sioux Falls,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,,NSIC,NSIC,NSIC
+129941,Division II,University of New Haven,New Haven,NE10,NE10,NE10,NE10,NE10,NE10,NE10,,NE10,NE10,NE10
+176965,Division II,University of Central Missouri,Central Mo.,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate
+216010,Division II,Shippensburg University of Pennsylvania,Shippensburg,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,,PSAC,PSAC,PSAC
+187897,Division II,New Mexico Highlands University,N.M. Highlands,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC
+216764,Division II,West Chester University of Pennsylvania,West Chester,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,,PSAC,PSAC,PSAC
+154493,Division II,Upper Iowa University,Upper Iowa,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,,NSIC,NSIC,GLVC
+206941,Division II,University of Central Oklahoma,Central Okla.,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate
+174358,Division II,Minnesota State University Moorhead,MSU Moorhead,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,,NSIC,NSIC,NSIC
+222831,Division II,Angelo State University,Angelo St.,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star
+174783,Division II,Saint Cloud State University,St. Cloud St.,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,,,,
+178341,Division II,Missouri Southern State University,Mo. Southern St.,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate
+199999,Division II,Winston-Salem State University,Winston-Salem,CIAA,CIAA,CIAA,CIAA,CIAA,CIAA,CIAA,,CIAA,CIAA,CIAA
+177940,Division II,Lincoln University,Lincoln (MO),MO Mid-America Intercollegiate,MO GLVC,MO GLVC,MO GLVC,MO GLVC,MO Mid-America Intercollegiate,MO Mid-America Intercollegiate,MO Mid-America Intercollegiate,MO Mid-America Intercollegiate,MO Mid-America Intercollegiate,MO Mid-America Intercollegiate
+207847,Division II,Southeastern Oklahoma State University,Southeastern Okla.,GAC,GAC,GAC,GAC,GAC,GAC,GAC,,GAC,GAC,GAC
+207865,Division II,Southwestern Oklahoma State University,Southwestern Okla.,GAC,GAC,GAC,GAC,GAC,GAC,GAC,,GAC,GAC,GAC
+199281,Division II,University of North Carolina at Pembroke,UNC Pembroke,DII Independent,DII Independent,DII Independent,DII Independent,DII Independent,DII Independent,DII Independent,MEC,MEC,MEC,MEC
+164447,Division II,American International College,American Int'l,NE10,NE10,NE10,NE10,NE10,NE10,NE10,,NE10,NE10,NE10
+164739,Division II,Bentley College,Bentley,NE10,NE10,NE10,NE10,NE10,NE10,NE10,,NE10,NE10,NE10
+175272,Division II,Winona State University,Winona St.,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,,NSIC,NSIC,NSIC
+107983,Division II,Southern Arkansas University Main Campus,Southern Ark.,GAC,GAC,GAC,GAC,GAC,GAC,GAC,,GAC,GAC,GAC
+230171,Division II,Dixie State University,Utah Tech,Great Northwest,Great Northwest,Great Northwest,RMAC,RMAC,RMAC,RMAC,,,,
+170082,Division II,Grand Valley State University,Grand Valley St.,GLIAC,GLIAC,GLIAC,GLIAC,GLIAC,GLIAC,GLIAC,,GLIAC,GLIAC,GLIAC
+212601,Division II,Gannon University,Gannon,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC
+198899,Division II,Mars Hill University,Mars Hill,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC
+171128,Division II,Michigan Technological University,Michigan Tech,GLIAC,GLIAC,GLIAC,GLIAC,GLIAC,GLIAC,GLIAC,,GLIAC,GLIAC,GLIAC
+141264,Division II,Valdosta State University,Valdosta St.,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,,Gulf South,Gulf South,Gulf South
+174233,Division II,University of Minnesota-Duluth,Minn. Duluth,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,,NSIC,NSIC,NSIC
+198835,Division II,Lenoir-Rhyne University,Lenoir-Rhyne,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC
+155061,Division II,Fort Hays State University,Fort Hays St.,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate
+219347,Division II,South Dakota School of Mines and Technology,South Dakota Mines,DII Independent,Great Northwest,Great Northwest,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC
+107512,Division II,Ouachita Baptist University,Ouachita Baptist,GAC,GAC,GAC,GAC,GAC,GAC,GAC,,GAC,GAC,GAC
+178387,Division II,Missouri Western State University,Missouri Western,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate
+156082,Division II,Washburn University,Washburn,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate
+213020,Division II,Indiana University of Pennsylvania-Main Campus,Indiana (PA),PA PSAC,PA PSAC,PA PSAC,PA PSAC,PA PSAC,PA PSAC,PA PSAC,,PA PSAC,PA PSAC,PA PSAC
+215770,Division II,Saint Joseph's University,St. Joseph's (IN),IN GLVC,IN GLVC,IN GLVC,IN GLVC,,,,,,,
+226833,Division II,Midwestern State University,Midwestern St.,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star
+220598,Division II,Lane College,Lane,SIAC,SIAC,SIAC,SIAC,SIAC,SIAC,SIAC,,SIAC,SIAC,SIAC
+198507,Division II,Elizabeth City State University,Elizabeth City St.,CIAA,CIAA,CIAA,CIAA,CIAA,CIAA,CIAA,,CIAA,CIAA,CIAA
+210429,Division II,Western Oregon University,Western Ore.,Great Northwest,Great Northwest,Great Northwest,Great Northwest,Great Northwest,Great Northwest,Great Northwest,,Great Northwest,Lone Star,Lone Star
+218441,Division II,North Greenville University,North Greenville,DII Independent,DII Independent,DII Independent,DII Independent,DII Independent,Gulf South,Gulf South,,Gulf South,Gulf South,Gulf South
+187648,Division II,Eastern New Mexico University-Main Campus,Eastern N.M.,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,,Lone Star,Lone Star,Lone Star
+207351,Division II,Oklahoma Panhandle State University,Okla. Panhandle,DII Independent,DII Independent,DII Independent,Lone Star,,,,,,,
+183239,Division II,Saint Anselm College,St. Anselm,NE10,NE10,NE10,NE10,NE10,NE10,NE10,,NE10,NE10,NE10
+101879,Division II,University of North Alabama,North Ala.,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,,,,,,
+188304,Division II,Western New Mexico University,Western N.M.,RMAC,RMAC,RMAC,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star
+213987,Division II,Mercyhurst University,Mercyhurst,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC
+141334,Division II,University of West Georgia,West Ga.,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,,Gulf South,Gulf South,Gulf South
+102270,Division II,Stillman College,Stillman,SIAC,SIAC,SIAC,,,,,,,,
+218414,Division II,Newberry College,Newberry,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC
+198303,Division II,Chowan University,Chowan,CIAA,CIAA,CIAA,CIAA,CIAA,CIAA,CIAA,,CIAA,CIAA,Gulf South
+204468,Division II,Notre Dame College,Notre Dame (OH),OH MEC,OH MEC,OH MEC,OH MEC,OH MEC,OH MEC,OH MEC,OH MEC,OH MEC,OH MEC,OH MEC
+203775,Division II,Malone University,Malone,GLIAC,GLIAC,GLIAC,DII Independent,G-MAC,,,,,,
+201104,Division II,Ashland University,Ashland,GLIAC,GLIAC,GLIAC,GLIAC,GLIAC,GLIAC,GLIAC,,G-MAC,G-MAC,G-MAC
+151263,Division II,University of Indianapolis,UIndy,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC
+199643,Division II,Shaw University,Shaw,CIAA,CIAA,CIAA,CIAA,CIAA,CIAA,CIAA,,CIAA,CIAA,CIAA
+198543,Division II,Fayetteville State University,Fayetteville St.,CIAA,CIAA,CIAA,CIAA,CIAA,CIAA,CIAA,,CIAA,CIAA,CIAA
+198215,Division II,Catawba College,Catawba,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC
+126182,Division II,Adams State College,Adams St.,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,,RMAC,RMAC,RMAC
+800001,Division II,Simon Fraser University,Simon Fraser,Great Northwest,Great Northwest,Great Northwest,Great Northwest,Great Northwest,Great Northwest,Great Northwest,,Great Northwest,Lone Star,
+207041,Division II,East Central University,East Central,GAC,GAC,GAC,GAC,GAC,GAC,GAC,GAC,GAC,GAC,GAC
+130493,Division II,Southern Connecticut State University,Southern Conn. St.,NE10,NE10,NE10,NE10,NE10,NE10,NE10,,NE10,NE10,NE10
+219046,Division II,Black Hills State University,Black Hills St.,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC
+102377,Division II,Tuskegee University,Tuskegee,SIAC,SIAC,SIAC,SIAC,SIAC,SIAC,SIAC,,SIAC,SIAC,SIAC
+224554,Division II,Texas A & M University-Commerce,Tex. A&M-Commerce,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,,Lone Star,,
+177968,Division II,Lindenwood University,Lindenwood,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,GLVC,,GLVC,,
+198756,Division II,Johnson C Smith University,Johnson C. Smith,CIAA,CIAA,CIAA,CIAA,CIAA,CIAA,CIAA,,CIAA,CIAA,CIAA
+178411,Division II,Missouri University of Science and Technology,Missouri S&T,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC
+206437,Division II,Walsh University,Walsh,GLIAC,GLIAC,GLIAC,GLIAC,G-MAC,G-MAC,G-MAC,G-MAC,G-MAC,G-MAC,G-MAC
+162007,Division II,Bowie State University,Bowie St.,CIAA,CIAA,CIAA,CIAA,CIAA,CIAA,CIAA,,CIAA,CIAA,CIAA
+179326,Division II,Southwest Baptist University,Southwest Baptist,Mid-America Intercollegiate,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC
+101675,Division II,Miles College,Miles,SIAC,SIAC,SIAC,SIAC,SIAC,SIAC,SIAC,,SIAC,SIAC,SIAC
+213349,Division II,Kutztown University of Pennsylvania,Kutztown,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,,PSAC,PSAC,PSAC
+206048,Division II,Tiffin University,Tiffin,GLIAC,GLIAC,GLIAC,GLIAC,GLIAC,G-MAC,G-MAC,G-MAC,G-MAC,G-MAC,G-MAC
+199962,Division II,Wingate University,Wingate,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC,SAC
+237118,Division II,Alderson Broaddus College,Alderson Broaddus,DII Independent,DII Independent,DII Independent,DII Independent,G-MAC,G-MAC,G-MAC,MEC,MEC,MEC,
+237969,Division II,West Virginia Wesleyan College,West Va. Wesleyan,MEC,MEC,MEC,MEC,MEC,MEC,MEC,MEC,MEC,MEC,MEC
+147013,Division II,McKendree University,McKendree,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC
+148131,Division II,Quincy University,Quincy,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC
+237792,Division II,Shepherd University,Shepherd,MEC,MEC,MEC,MEC,MEC,MEC,PSAC,PSAC,PSAC,PSAC,PSAC
+133881,Division II,Florida Institute of Technology,Florida Tech,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,,,,
+211361,Division II,California University of Pennsylvania,California (PA),PA PSAC,PA PSAC,PA PSAC,PA PSAC,PA PSAC,PA PSAC,PA PSAC,,PA PSAC,PA PSAC,PA PSAC
+234155,Division II,Virginia State University,Virginia St.,CIAA,CIAA,CIAA,CIAA,CIAA,CIAA,CIAA,,CIAA,CIAA,CIAA
+200217,Division II,University of Mary,Mary,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,,NSIC,NSIC,NSIC
+167996,Division II,Stonehill College,Stonehill,NE10,NE10,NE10,NE10,NE10,NE10,NE10,,NE10,,
+171456,Division II,Northern Michigan University,Northern Mich.,GLIAC,GLIAC,GLIAC,GLIAC,GLIAC,GLIAC,GLIAC,,GLIAC,GLIAC,GLIAC
+106467,Division II,Arkansas Tech University,Arkansas Tech,GAC,GAC,GAC,GAC,GAC,GAC,GAC,,GAC,GAC,GAC
+181783,Division II,Wayne State College,Wayne St. (NE),NE NSIC,NE NSIC,NE NSIC,NE NSIC,NE NSIC,NE NSIC,NE NSIC,,NE NSIC,NE NSIC,NE NSIC
+138716,Division II,Albany State University,Albany St. (GA),GA SIAC,GA SIAC,GA SIAC,GA SIAC,GA SIAC,GA SIAC,GA SIAC,,GA SIAC,GA SIAC,GA SIAC
+157058,Division II,Kentucky State University,Kentucky St.,SIAC,SIAC,SIAC,SIAC,SIAC,SIAC,SIAC,,SIAC,SIAC,SIAC
+127556,Division II,Colorado Mesa University,Colorado Mesa,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC
+198862,Division II,Livingstone College,Livingstone,CIAA,CIAA,CIAA,CIAA,CIAA,CIAA,CIAA,,CIAA,CIAA,CIAA
+115755,Division II,Humboldt State University,Cal Poly Humboldt,Great Northwest,Great Northwest,Great Northwest,Great Northwest,Great Northwest,Great Northwest,,,,,
+178615,Division II,Truman State University,Truman St.,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC
+201690,Division II,Central State University,Central St. (OH),OH SIAC,OH SIAC,OH SIAC,OH SIAC,OH SIAC,OH SIAC,OH SIAC,,OH SIAC,OH SIAC,OH SIAC
+128391,Division II,Western Colorado University,Western Colo.,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC
+237385,Division II,Glenville State College,Glenville St.,MEC,MEC,MEC,MEC,MEC,MEC,MEC,MEC,MEC,MEC,MEC
+181215,Division II,University of Nebraska at Kearney,Neb.-Kearney,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate
+171492,Division II,Northwood University,Northwood,GLIAC,GLIAC,GLIAC,GLIAC,GLIAC,GLIAC,GLIAC,,GLIAC,G-MAC,G-MAC
+164562,Division II,Assumption College,Assumption,NE10,NE10,NE10,NE10,NE10,NE10,NE10,,NE10,NE10,NE10
+219259,Division II,Northern State University,Northern St.,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,,NSIC,NSIC,NSIC
+140988,Division II,Shorter University,Shorter,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South
+237330,Division II,Concord University,Concord,MEC,MEC,MEC,MEC,MEC,MEC,MEC,MEC,MEC,MEC,MEC
+228705,Division II,Texas A & M University-Kingsville,Tex. A&M-Kingsville,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star
+172644,Division II,Wayne State University,Wayne St. (MI),MI GLIAC,MI GLIAC,MI GLIAC,MI GLIAC,MI GLIAC,MI GLIAC,MI GLIAC,,MI GLIAC,MI GLIAC,MI GLIAC
+217721,Division II,Benedict College,Benedict,SIAC,SIAC,SIAC,SIAC,SIAC,SIAC,SIAC,,SIAC,SIAC,SIAC
+234827,Division II,Central Washington University,Central Wash.,Great Northwest,Great Northwest,Great Northwest,Great Northwest,Great Northwest,Great Northwest,Great Northwest,Great Northwest,Great Northwest,Lone Star,Lone Star
+173328,Division II,Concordia University-Saint Paul,Concordia-St. Paul,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,,NSIC,NSIC,NSIC
+106485,Division II,University of Arkansas at Monticello,Ark.-Monticello,GAC,GAC,GAC,GAC,GAC,GAC,GAC,,GAC,GAC,GAC
+207263,Division II,Northeastern State University,Northeastern St.,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate,,Mid-America Intercollegiate,Mid-America Intercollegiate,Mid-America Intercollegiate
+198066,Division II,Brevard College,Brevard,SAC,SAC,SAC,SAC,,,,,,,
+194310,Division II,Pace University-New York,Pace,NE10,NE10,NE10,NE10,NE10,NE10,NE10,,NE10,NE10,NE10
+211644,Division II,Clarion University of Pennsylvania,Clarion,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,,PSAC,PSAC,PSAC
+212160,Division II,Edinboro University of Pennsylvania,Edinboro,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,,PSAC,PSAC,PSAC
+237367,Division II,Fairmont State University,Fairmont St.,MEC,MEC,MEC,MEC,MEC,MEC,MEC,,MEC,MEC,MEC
+139719,Division II,Fort Valley State University,Fort Valley St.,SIAC,SIAC,SIAC,SIAC,SIAC,SIAC,SIAC,SIAC,SIAC,SIAC,SIAC
+237312,Division II,University of Charleston,Charleston (WV),WV MEC,WV MEC,WV MEC,WV MEC,WV MEC,WV MEC,WV MEC,WV MEC,WV MEC,WV MEC,WV MEC
+206862,Division II,Southern Nazarene University,Southern Nazarene,GAC,GAC,GAC,GAC,GAC,GAC,GAC,GAC,GAC,GAC,GAC
+199582,Division II,Saint Augustine's University,Saint Augustine's,CIAA,CIAA,CIAA,CIAA,CIAA,CIAA,CIAA,,CIAA,CIAA,CIAA
+173124,Division II,Bemidji State University,Bemidji St.,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,,NSIC,NSIC,NSIC
+219000,Division II,Augustana University,Augustana (SD),SD NSIC,SD NSIC,SD NSIC,SD NSIC,SD NSIC,SD NSIC,SD NSIC,,SD NSIC,SD NSIC,SD NSIC
+179955,Division II,William Jewell College,William Jewell,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC,GLVC
+127185,Division II,Fort Lewis College,Fort Lewis,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC,RMAC
+233897,Division II,The University of Virginia's College at Wise,UVA Wise,MEC,,MEC,MEC,MEC,MEC,SAC,SAC,SAC,SAC,SAC
+213613,Division II,Lock Haven University,Lock Haven,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,,PSAC,PSAC,PSAC
+200253,Division II,Minot State University,Minot St.,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,,NSIC,NSIC,NSIC
+207306,Division II,Northwestern Oklahoma State University,Northwestern Okla.,GAC,GAC,GAC,GAC,GAC,GAC,GAC,,GAC,GAC,GAC
+234164,Division II,Virginia Union University,Virginia Union,CIAA,CIAA,CIAA,CIAA,CIAA,CIAA,CIAA,,CIAA,CIAA,CIAA
+237932,Division II,West Liberty University,West Liberty,MEC,MEC,MEC,MEC,MEC,MEC,MEC,MEC,MEC,MEC,MEC
+213598,Division II,The Lincoln University,Lincoln (PA),PA CIAA,PA CIAA,PA CIAA,PA CIAA,PA CIAA,PA CIAA,PA CIAA,,PA CIAA,PA CIAA,PA CIAA
+237899,Division II,West Virginia State University,West Virginia St.,MEC,MEC,MEC,MEC,MEC,MEC,MEC,MEC,MEC,MEC,MEC
+214041,Division II,Millersville University of Pennsylvania,Millersville,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,,PSAC,PSAC,PSAC
+157076,Division II,Kentucky Wesleyan College,Ky. Wesleyan,GLVC,DII Independent,DII Independent,DII Independent,G-MAC,G-MAC,G-MAC,G-MAC,G-MAC,G-MAC,G-MAC
+138947,Division II,Clark Atlanta University,Clark Atlanta,SIAC,SIAC,SIAC,SIAC,SIAC,SIAC,SIAC,,SIAC,SIAC,SIAC
+215947,Division II,Seton Hill University,Seton Hill,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,PSAC,,PSAC,PSAC,PSAC
+211608,Division II,Cheyney University of Pennsylvania,Cheyney,PSAC,,PSAC,PSAC,PSAC,,,,,,
+174075,Division II,University of Minnesota-Crookston,Minn.-Crookston,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,NSIC,,,,
+109785,Division II,Azusa Pacific University,Azusa Pacific,,Great Northwest,Great Northwest,Great Northwest,Great Northwest,Great Northwest,Great Northwest,,,,
+218238,Division II,Limestone College,Limestone,,DII Independent,DII Independent,DII Independent,SAC,SAC,SAC,SAC,SAC,SAC,SAC
+140720,Division II,Paine College,Paine,,SIAC,,,,,,,,,
+138354,Division II,The University of West Florida,West Florida,,,,Gulf South,Gulf South,Gulf South,Gulf South,,Gulf South,Gulf South,Gulf South
+176053,Division II,Mississippi College,Mississippi Col.,,,,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South,Gulf South
+229018,Division II,The University of Texas of the Permian Basin,Tex. Permian Basin,,,,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star,Lone Star
+207403,Division II,Oklahoma Baptist University,Okla. Baptist,,,,,GAC,GAC,GAC,,GAC,GAC,GAC
+203775,Division II,Malone University,Malone (N/A),,,,,,N/A,,,,,
+140960,Division II,Savannah State University,Savannah St.,,,,,,,SIAC,SIAC,SIAC,SIAC,SIAC
+238078,Division II,Wheeling Jesuit University,Wheeling,,,,,,,MEC,MEC,MEC,MEC,MEC
+169479,Division II,Davenport University,Davenport,,,,,,,GLIAC,GLIAC,GLIAC,GLIAC,GLIAC
+182795,Division II,Franklin Pierce University,Franklin Pierce,,,,,,,NE10,,NE10,NE10,NE10
+197911,Division II,Barton College,Barton,,,,,,,,DII Independent,DII Independent,SAC,SAC
+217998,Division II,Erskine College,Erskine,,,,,,,,DII Independent,DII Independent,SAC,SAC
+217624,Division II,Allen University,Allen,,,,,,,,,SIAC,SIAC,SIAC
+237215,Division II,Bluefield State College,Bluefield St.,,,,,,,,,DII Independent,DII Independent,CIAA
+162584,Division II,Frostburg State University,Frostburg St.,,,,,,,,,,MEC,MEC
+133526,Division II,Edward Waters College,Edward Waters,,,,,,,,,,SIAC,SIAC
+130183,Division II,Post University,Post,,,,,,,,,,DII Independent,DII Independent
+101435,Division III,Huntingdon College,Huntingdon,USA South,USA South,USA South,USA South,USA South,USA South,USA South,USA South,USA South,USA South,USA South
+198969,Division III,Methodist University,Methodist,USA South,USA South,USA South,USA South,USA South,USA South,USA South,USA South,USA South,USA South,USA South
+228981,Division III,Texas Lutheran University,Texas Lutheran,SCAC,SCAC,SCAC,SCAC,ASC,ASC,ASC,ASC,ASC,ASC,ASC
+204185,Division III,Mount Union College,Mount Union,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC
+206525,Division III,Wittenberg University,Wittenberg,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,,NCAC,NCAC,NCAC
+203085,Division III,Heidelberg University,Heidelberg,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC
+196051,Division III,Morrisville State College,SUNY Morrisville,NJAC,NJAC,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8,,Empire 8,Empire 8,Empire 8
+145691,Division III,Illinois College,Illinois Col.,MWC,MWC,MWC,MWC,MWC,MWC,MWC,MWC,MWC,MWC,MWC
+111948,Division III,Chapman University,Chapman,SCIAC,SCIAC,SCIAC,SCIAC,SCIAC,SCIAC,SCIAC,,SCIAC,SCIAC,SCIAC
+162928,Division III,Johns Hopkins University,Johns Hopkins,Centennial,Centennial,Centennial,Centennial,Centennial,Centennial,Centennial,,Centennial,Centennial,Centennial
+240462,Division III,University of Wisconsin-Platteville,Wis.-Platteville,WIAC,WIAC,WIAC,WIAC,WIAC,WIAC,WIAC,,WIAC,WIAC,WIAC
+147660,Division III,North Central College,North Central (IL),IL CCIW,IL CCIW,IL CCIW,IL CCIW,IL CCIW,IL CCIW,IL CCIW,,IL CCIW,IL CCIW,IL CCIW
+166692,Division III,Massachusetts Maritime Academy,Mass. Maritime,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,,MASCAC,MASCAC,MASCAC
+157809,Division III,Thomas More College,Thomas More,PAC,PAC,PAC,PAC,Independent,DIII Independent,,,,,
+130776,Division III,Western Connecticut State University,WestConn,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,,MASCAC,MASCAC,MASCAC
+168254,Division III,Western New England University,Western New Eng.,CCC Football,CCC Football,CCC Football,CCC Football,CCC Football,CCC Football,CCC Football,,CCC Football,CCC,CCC Football
+220710,Division III,Maryville College,Maryville (TN),TN USA South,TN USA South,TN USA South,TN USA South,TN USA South,TN USA South,TN USA South,TN USA South,TN USA South,TN USA South,TN USA South
+145372,Division III,Greenville University,Greenville,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC
+210401,Division III,Willamette University,Willamette,NWC,NWC,NWC,NWC,NWC,NWC,NWC,,NWC,NWC,NWC
+209065,Division III,Linfield College,Linfield,NWC,NWC,NWC,NWC,NWC,NWC,NWC,,NWC,NWC,NWC
+238616,Division III,Concordia University-Wisconsin,Concordia Wisconsin,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC
+150604,Division III,Franklin College,Franklin,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC
+226471,Division III,University of Mary Hardin-Baylor,Mary Hardin-Baylor,ASC,ASC,ASC,ASC,ASC,ASC,ASC,ASC,ASC,ASC,ASC
+173160,Division III,Bethel University,Bethel (MN),MN MIAC,MN MIAC,MN MIAC,MN MIAC,MN MIAC,MN MIAC,MN MIAC,,MN MIAC,MN MIAC,MN MIAC
+225247,Division III,Hardin-Simmons University,Hardin-Simmons,ASC,ASC,ASC,ASC,ASC,ASC,ASC,ASC,ASC,ASC,ASC
+212674,Division III,Gettysburg College,Gettysburg,Centennial,Centennial,Centennial,Centennial,Centennial,Centennial,Centennial,,Centennial,Centennial,Centennial
+224527,Division III,East Texas Baptist University,East Tex. Baptist,ASC,ASC,ASC,ASC,ASC,ASC,ASC,ASC,ASC,ASC,ASC
+173045,Division III,Augsburg College,Augsburg,MIAC,MIAC,MIAC,MIAC,MIAC,MIAC,MIAC,MIAC,MIAC,MIAC,MIAC
+196121,Division III,SUNY College at Brockport,SUNY Brockport,NJAC,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8,,Empire 8,Empire 8,Empire 8
+203368,Division III,John Carroll University,John Carroll,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC
+232256,Division III,Hampden-Sydney College,Hampden-Sydney,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC
+174914,Division III,University of St Thomas,St. Thomas (MN),MN MIAC,MN MIAC,MN MIAC,MN MIAC,MN MIAC,MN MIAC,MN MIAC,,,,
+156408,Division III,Centre College,Centre,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA
+143118,Division III,Aurora University,Aurora,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC
+206589,Division III,The College of Wooster,Wooster,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC
+230959,Division III,Middlebury College,Middlebury,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,,NESCAC,NESCAC,NESCAC
+120254,Division III,Occidental College,Occidental,SCIAC,SCIAC,SCIAC,SCIAC,,SCIAC,SCIAC,,,,
+140234,Division III,LaGrange College,LaGrange,USA South,USA South,USA South,USA South,USA South,USA South,USA South,,USA South,USA South,USA South
+153278,Division III,University of Dubuque,Dubuque,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers
+216852,Division III,Widener University,Widener,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,,Middle Atlantic,Middle Atlantic,Middle Atlantic
+153162,Division III,Cornell College,Cornell College,MWC,MWC,MWC,MWC,MWC,MWC,MWC,,MWC,MWC,MWC
+147341,Division III,Monmouth College,Monmouth (IL),IL MWC,IL MWC,IL MWC,IL MWC,IL MWC,IL MWC,IL MWC,,IL MWC,IL MWC,IL MWC
+154350,Division III,Simpson College,Simpson,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers
+149781,Division III,Wheaton College,Wheaton (IL),IL CCIW,IL CCIW,IL CCIW,IL CCIW,IL CCIW,IL CCIW,IL CCIW,,IL CCIW,IL CCIW,IL CCIW
+216667,Division III,Washington & Jefferson College,Wash. & Jeff.,PAC,PAC,PAC,PAC,PAC,PAC,PAC,PAC,PAC,PAC,PAC
+166683,Division III,Massachusetts Institute of Technology,MIT,CCC Football,CCC Football,CCC Football,CCC Football,NEWMAC,NEWMAC,NEWMAC,,NEWMAC,NEWMAC,NEWMAC
+240365,Division III,University of Wisconsin-Oshkosh,Wis.-Oshkosh,WIAC,WIAC,WIAC,WIAC,WIAC,WIAC,WIAC,,WIAC,WIAC,WIAC
+212656,Division III,Geneva College,Geneva,PAC,PAC,PAC,PAC,PAC,PAC,PAC,PAC,PAC,PAC,PAC
+110413,Division III,California Lutheran University,Cal Lutheran,SCIAC,SCIAC,SCIAC,SCIAC,SCIAC,SCIAC,SCIAC,,SCIAC,SCIAC,SCIAC
+211981,Division III,Delaware Valley College,Delaware Valley,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,,Middle Atlantic,Middle Atlantic,Middle Atlantic
+209056,Division III,Lewis & Clark College,Lewis & Clark,NWC,NWC,NWC,NWC,NWC,NWC,NWC,,NWC,NWC,NWC
+107080,Division III,Hendrix College,Hendrix,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA
+131283,Division III,Catholic University of America,Catholic,ODAC,ODAC,ODAC,ODAC,NEWMAC,NEWMAC,NEWMAC,,NEWMAC,NEWMAC,Landmark
+237181,Division III,Bethany College,Bethany (WV),WV PAC,WV PAC,WV PAC,WV PAC,WV PAC,WV PAC,WV PAC,WV PAC,WV PAC,WV PAC,WV PAC
+199209,Division III,North Carolina Wesleyan College,N.C. Wesleyan,USA South,USA South,USA South,USA South,USA South,USA South,USA South,USA South,USA South,USA South,USA South
+131098,Division III,Wesley College,Wesley,DIII Independent,DIII Independent,NJAC,NJAC,NJAC,Atlantic East,NJAC,NJAC,,,
+239628,Division III,Ripon College,Ripon,MWC,MWC,MWC,MWC,MWC,MWC,MWC,MWC,MWC,MWC,MWC
+195030,Division III,University of Rochester,Rochester (NY),NY Liberty League,NY Liberty League,NY Liberty League,NY Liberty League,NY Liberty League,NY Liberty League,NY Liberty League,,NY Liberty League,NY Liberty League,NY Liberty League
+152318,Division III,Rose-Hulman Institute of Technology,Rose-Hulman,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC
+125763,Division III,Whittier College,Whittier,SCIAC,SCIAC,SCIAC,SCIAC,SCIAC,SCIAC,SCIAC,,SCIAC,SCIAC,
+225548,Division III,Howard Payne University,Howard Payne,ASC,ASC,ASC,ASC,ASC,ASC,ASC,ASC,ASC,ASC,ASC
+240338,Division III,Wisconsin Lutheran College,Wis. Lutheran,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC
+159568,Division III,Louisiana College,Louisiana Col.,ASC,ASC,ASC,ASC,ASC,ASC,ASC,ASC,,,
+170532,Division III,Kalamazoo College,Kalamazoo,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.
+204909,Division III,Ohio Wesleyan University,Ohio Wesleyan,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC
+221351,Division III,Rhodes College,Rhodes,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA
+195720,Division III,Saint John Fisher College,St. John Fisher,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8,,Empire 8,Empire 8,Empire 8
+174899,Division III,The College of Saint Scholastica,St. Scholastica,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC,,MIAC,MIAC,MIAC
+214175,Division III,Muhlenberg College,Muhlenberg,Centennial,Centennial,Centennial,Centennial,Centennial,Centennial,Centennial,,Centennial,Centennial,Centennial
+171599,Division III,Olivet College,Olivet,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.
+130590,Division III,Trinity College,Trinity (CT),CT NESCAC,CT NESCAC,CT NESCAC,CT NESCAC,CT NESCAC,CT NESCAC,CT NESCAC,,CT NESCAC,CT NESCAC,CT NESCAC
+161299,Division III,Maine Maritime Academy,Maine Maritime,CCC Football,CCC Football,CCC Football,NEWMAC,NEWMAC,NEWMAC,NEWMAC,,,,
+212577,Division III,Franklin and Marshall College,Franklin & Marshall,Centennial,Centennial,Centennial,Centennial,Centennial,Centennial,Centennial,,Centennial,Centennial,Centennial
+202523,Division III,Denison University,Denison,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC
+165024,Division III,Bridgewater State University,Bridgewater St.,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,,MASCAC,MASCAC,MASCAC
+170301,Division III,Hope College,Hope,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.
+217536,Division III,Salve Regina University,Salve Regina,CCC Football,CCC Football,CCC Football,CCC Football,CCC,CCC Football,CCC Football,,CCC Football,CCC,NEWMAC
+238980,Division III,Lakeland College,Lakeland,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC
+173452,Division III,Martin Luther College,Martin Luther,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC
+165529,Division III,Curry College,Curry,CCC Football,CCC Football,CCC Football,CCC Football,CCC,CCC Football,CCC Football,,CCC Football,CCC,CCC Football
+240480,Division III,University of Wisconsin-Stevens Point,Wis.-Stevens Point,WIAC,WIAC,WIAC,WIAC,WIAC,WIAC,WIAC,,WIAC,WIAC,WIAC
+222983,Division III,Austin College,Austin,SCAC,SCAC,SCAC,SCAC,SAA,SAA,SAA,SAA,ASC,ASC,ASC
+173300,Division III,Concordia College at Moorhead,Concordia-M'head,MIAC,MIAC,MIAC,MIAC,MIAC,MIAC,MIAC,,MIAC,MIAC,MIAC
+209612,Division III,Pacific University,Pacific (OR),OR NWC,OR NWC,OR NWC,OR NWC,OR NWC,OR NWC,OR NWC,OR NWC,OR NWC,OR NWC,OR NWC
+165699,Division III,Endicott College,Endicott,CCC Football,CCC Football,CCC Football,CCC Football,CCC,CCC Football,CCC Football,,CCC Football,CCC,CCC Football
+154527,Division III,Wartburg College,Wartburg,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,,American Rivers,American Rivers,American Rivers
+240189,Division III,University of Wisconsin-Whitewater,Wis.-Whitewater,WIAC,WIAC,WIAC,WIAC,WIAC,WIAC,WIAC,,WIAC,WIAC,WIAC
+168430,Division III,Worcester State University,Worcester St.,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,,MASCAC,MASCAC,MASCAC
+210571,Division III,Albright College,Albright,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,,Middle Atlantic,Middle Atlantic,Middle Atlantic
+175980,Division III,Millsaps College,Millsaps,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA
+231581,Division III,Bridgewater College,Bridgewater (VA),VA ODAC,VA ODAC,VA ODAC,VA ODAC,VA ODAC,VA ODAC,VA ODAC,VA ODAC,VA ODAC,VA ODAC,VA ODAC
+121691,Division III,University of Redlands,Redlands,SCIAC,SCIAC,SCIAC,SCIAC,SCIAC,SCIAC,SCIAC,,SCIAC,SCIAC,SCIAC
+153144,Division III,Coe College,Coe,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers
+236230,Division III,Pacific Lutheran University,Pacific Lutheran,NWC,NWC,NWC,NWC,NWC,NWC,NWC,NWC,NWC,NWC,NWC
+229267,Division III,Trinity University,Trinity (TX),TX SCAC,TX SCAC,TX SCAC,TX SCAC,TX SCAC,TX SAA,TX SAA,TX SAA,TX SAA,TX SAA,TX SAA
+176053,Division III,Mississippi College,Mississippi Col.,ASC,,,,,,,,,,
+216694,Division III,Waynesburg University,Waynesburg,PAC,PAC,PAC,PAC,PAC,PAC,PAC,PAC,PAC,PAC,PAC
+165866,Division III,Framingham State College,Framingham St.,CCC Football,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,,MASCAC,MASCAC,MASCAC
+233295,Division III,Randolph-Macon College,Randolph-Macon,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC
+196130,Division III,SUNY College at Buffalo,Buffalo St.,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8,Liberty League,Liberty League,,Liberty League,Liberty League,Liberty League
+213251,Division III,Juniata College,Juniata,Centennial,Centennial,Centennial,Centennial,Centennial,Centennial,Centennial,,Centennial,Centennial,Landmark
+179946,Division III,Westminster College,Westminster (MO),MO UMAC,MO UMAC,MO UMAC,MO UMAC,MO UMAC,MO UMAC,MO UMAC,MO UMAC,MO UMAC,MO UMAC,MO UMAC
+232025,Division III,Emory & Henry College,Emory & Henry,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,,,
+198613,Division III,Guilford College,Guilford,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC
+216524,Division III,Ursinus College,Ursinus,Centennial,Centennial,Centennial,Centennial,Centennial,Centennial,Centennial,,Centennial,Centennial,Centennial
+240417,Division III,University of Wisconsin-Stout,Wis.-Stout,WIAC,WIAC,WIAC,WIAC,WIAC,WIAC,WIAC,,WIAC,WIAC,WIAC
+130697,Division III,Wesleyan University,Wesleyan (CT),CT NESCAC,CT NESCAC,CT NESCAC,CT NESCAC,CT NESCAC,CT NESCAC,CT NESCAC,,CT NESCAC,CT NESCAC,CT NESCAC
+100937,Division III,Birmingham Southern College,Birmingham-So.,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA
+216357,Division III,Thiel College,Thiel,PAC,PAC,PAC,PAC,PAC,PAC,PAC,,PAC,PAC,PAC
+191630,Division III,Hobart William Smith Colleges,Hobart,Liberty League,Liberty League,Liberty League,Liberty League,Liberty League,Liberty League,Liberty League,,Liberty League,Liberty League,Liberty League
+145619,Division III,Benedictine University,Benedictine (IL),IL NACC,IL NACC,IL NACC,IL NACC,IL NACC,IL NACC,IL NACC,IL NACC,IL NACC,IL NACC,IL NACC
+213507,Division III,Lebanon Valley College,Lebanon Valley,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,,Middle Atlantic,Middle Atlantic,Middle Atlantic
+145646,Division III,Illinois Wesleyan University,Ill. Wesleyan,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW
+173647,Division III,Gustavus Adolphus College,Gust. Adolphus,MIAC,MIAC,MIAC,MIAC,MIAC,MIAC,MIAC,,MIAC,MIAC,MIAC
+152567,Division III,Trine University,Trine,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.
+231712,Division III,Christopher Newport University,Chris. Newport,USA South,USA South,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC
+216807,Division III,Westminster College,Westminster (PA),PA PAC,PA PAC,PA PAC,PA PAC,PA PAC,PA PAC,PA PAC,PA PAC,PA PAC,PA PAC,PA PAC
+188641,Division III,Alfred University,Alfred,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8
+144971,Division III,Eureka College,Eureka,UMAC,UMAC,UMAC,UMAC,UMAC,NACC,NACC,NACC,NACC,NACC,NACC
+117140,Division III,University of La Verne,La Verne,SCIAC,SCIAC,SCIAC,SCIAC,SCIAC,SCIAC,SCIAC,,SCIAC,SCIAC,SCIAC
+174251,Division III,University of Minnesota-Morris,Minn.-Morris,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC
+234207,Division III,Washington and Lee University,Wash. & Lee,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,,ODAC,ODAC,ODAC
+165820,Division III,Fitchburg State University,Fitchburg St.,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,,MASCAC,MASCAC,MASCAC
+214069,Division III,Misericordia University,Misericordia,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,,Middle Atlantic,Middle Atlantic,Middle Atlantic
+174491,Division III,University of Northwestern-St Paul,Northwestern-St. Paul,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC,UMAC
+237066,Division III,Whitworth University,Whitworth,NWC,NWC,NWC,NWC,NWC,NWC,NWC,NWC,NWC,NWC,NWC
+168546,Division III,Albion College,Albion,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.
+191533,Division III,Hartwick College,Hartwick,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8,,Empire 8,Empire 8,Empire 8
+147244,Division III,Millikin University,Millikin,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW
+143084,Division III,Augustana College,Augustana (IL),IL CCIW,IL CCIW,IL CCIW,IL CCIW,IL CCIW,IL CCIW,IL CCIW,IL CCIW,IL CCIW,IL CCIW,IL CCIW
+148405,Division III,Rockford University,Rockford,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC
+197045,Division III,Utica College,Utica,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8
+239017,Division III,Lawrence University,Lawrence,MWC,MWC,MWC,MWC,MWC,MWC,MWC,,MWC,MWC,MWC
+131450,Division III,Gallaudet University,Gallaudet,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference
+198598,Division III,Greensboro College,Greensboro,USA South,USA South,USA South,USA South,USA South,USA South,USA South,USA South,USA South,USA South,USA South
+232089,Division III,Ferrum College,Ferrum,USA South,USA South,USA South,USA South,USA South,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC
+213668,Division III,Lycoming College,Lycoming,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,,Middle Atlantic,Middle Atlantic,Landmark
+112260,Division III,Claremont McKenna College,Claremont-M-S,SCIAC,SCIAC,SCIAC,SCIAC,SCIAC,SCIAC,SCIAC,,SCIAC,SCIAC,SCIAC
+238458,Division III,Carroll College,Carroll (WI),WI MWC,WI MWC,WI MWC,WI CCIW,WI CCIW,WI CCIW,WI CCIW,,WI CCIW,WI CCIW,WI CCIW
+204635,Division III,Ohio Northern University,Ohio Northern,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC
+196149,Division III,SUNY College at Cortland,Cortland,NJAC,NJAC,Empire 8,Empire 8,Empire 8,Empire 8,Empire 8,,Empire 8,Empire 8,Empire 8
+163851,Division III,Salisbury University,Salisbury,Empire 8,Empire 8,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC
+201195,Division III,Baldwin-Wallace College,Baldwin Wallace,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC
+173258,Division III,Carleton College,Carleton,MIAC,MIAC,MIAC,MIAC,MIAC,MIAC,MIAC,,MIAC,MIAC,MIAC
+196866,Division III,Union College,Union (NY),NY Liberty League,NY Liberty League,NY Liberty League,NY Liberty League,NY Liberty League,NY Liberty League,NY Liberty League,,NY Liberty League,NY Liberty League,NY Liberty League
+228501,Division III,Sul Ross State University,Sul Ross St.,ASC,ASC,ASC,ASC,ASC,ASC,ASC,ASC,ASC,ASC,
+162584,Division III,Frostburg State University,Frostburg St.,Empire 8,Empire 8,NJAC,NJAC,NJAC,NJAC,,,,,
+202514,Division III,Defiance College,Defiance,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC
+168263,Division III,Westfield State University,Westfield St.,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,,MASCAC,MASCAC,MASCAC
+153001,Division III,Buena Vista University,Buena Vista,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,,American Rivers,American Rivers,American Rivers
+164465,Division III,Amherst College,Amherst,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,,NESCAC,NESCAC,NESCAC
+204200,Division III,Mount Saint Joseph University,Mt. St. Joseph,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC
+167899,Division III,Springfield College,Springfield,Liberty League,Liberty League,Liberty League,Liberty League,Liberty League,NEWMAC,NEWMAC,,NEWMAC,NEWMAC,NEWMAC
+160977,Division III,Bates College,Bates,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,,NESCAC,NESCAC,NESCAC
+164173,Division III,Stevenson University,Stevenson,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic
+144351,Division III,Concordia University-Chicago,Concordia Chicago,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC,NACC
+164270,Division III,McDaniel College,McDaniel,Centennial,Centennial,Centennial,Centennial,Centennial,Centennial,Centennial,,Centennial,Centennial,Centennial
+214157,Division III,Moravian College,Moravian,Centennial,Centennial,Centennial,Centennial,Centennial,Centennial,Centennial,,Centennial,Centennial,Landmark
+184694,Division III,Fairleigh Dickinson University-College at Florham,FDU-Florham,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,,Middle Atlantic,Middle Atlantic,Middle Atlantic
+211440,Division III,Carnegie Mellon University,Carnegie Mellon,UAA,UAA,PAC,PAC,PAC,PAC,PAC,PAC,PAC,PAC,PAC
+181446,Division III,Nebraska Wesleyan University,Neb. Wesleyan,DIII Independent,DIII Independent,DIII Independent,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers
+147679,Division III,North Park University,North Park,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW
+150400,Division III,DePauw University,DePauw,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC
+233541,Division III,Shenandoah University,Shenandoah,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC,ODAC
+240471,Division III,University of Wisconsin-River Falls,UW-River Falls,WIAC,WIAC,WIAC,WIAC,WIAC,WIAC,WIAC,,WIAC,WIAC,WIAC
+167987,Division III,University of Massachusetts-Dartmouth,UMass Dartmouth,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,,MASCAC,MASCAC,MASCAC
+197027,Division III,United States Merchant Marine Academy,Merchant Marine,Liberty League,Liberty League,Liberty League,Liberty League,NEWMAC,NEWMAC,NEWMAC,NEWMAC,NEWMAC,NEWMAC,NEWMAC
+187444,Division III,William Paterson University of New Jersey,Wm. Paterson,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC,,NJAC,NJAC,NJAC
+206507,Division III,Wilmington College,Wilmington (OH),OH OAC,OH OAC,OH OAC,OH OAC,OH OAC,OH OAC,OH OAC,OH OAC,OH OAC,OH OAC,OH OAC
+174844,Division III,St. Olaf College,St. Olaf,MIAC,MIAC,MIAC,MIAC,MIAC,MIAC,MIAC,,MIAC,MIAC,MIAC
+221519,Division III,Sewanee-The University of the South,Sewanee,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA
+173665,Division III,Hamline University,Hamline,MIAC,MIAC,MIAC,MIAC,MIAC,MIAC,MIAC,,MIAC,MIAC,MIAC
+174862,Division III,Crown College,Crown (MN),MN UMAC,MN UMAC,MN UMAC,MN UMAC,MN UMAC,MN UMAC,MN UMAC,,MN UMAC,MN UMAC,MN UMAC
+150455,Division III,Earlham College,Earlham,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,,,,,
+230995,Division III,Norwich University,Norwich,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,NEWMAC,NEWMAC,NEWMAC,,NEWMAC,NEWMAC,NEWMAC
+213321,Division III,King's College,King's (PA),PA Middle Atlantic,PA Middle Atlantic,PA Middle Atlantic,PA Middle Atlantic,PA Middle Atlantic,PA Middle Atlantic,PA Middle Atlantic,,PA Middle Atlantic,PA Middle Atlantic,PA Middle Atlantic
+194824,Division III,Rensselaer Polytechnic Institute,Rensselaer,Liberty League,Liberty League,Liberty League,Liberty League,Liberty League,Liberty League,Liberty League,,Liberty League,Liberty League,Liberty League
+153834,Division III,Luther College,Luther,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers
+203845,Division III,Marietta College,Marietta,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC
+161086,Division III,Colby College,Colby,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,,NESCAC,NESCAC,NESCAC
+164492,Division III,Anna Maria College,Anna Maria,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference
+201548,Division III,Capital University,Capital,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC
+216931,Division III,Wilkes University,Wilkes,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,,Middle Atlantic,Middle Atlantic,Landmark
+201371,Division III,Bluffton University,Bluffton,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC
+168421,Division III,Worcester Polytechnic Institute,WPI,Liberty League,Liberty League,Liberty League,Liberty League,NEWMAC,NEWMAC,NEWMAC,,NEWMAC,NEWMAC,NEWMAC
+179867,Division III,Washington University in St Louis,WashU,UAA,DIII Independent,UAA,SAA,DIII Independent,CCIW,CCIW,,CCIW,CCIW,CCIW
+196291,Division III,SUNY Maritime College,SUNY Maritime,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,NEWMAC
+216278,Division III,Susquehanna University,Susquehanna,Centennial,Centennial,Centennial,Centennial,Centennial,Centennial,Centennial,,Centennial,Centennial,Landmark
+168528,Division III,Adrian College,Adrian,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.
+195216,Division III,St Lawrence University,St. Lawrence,Liberty League,Liberty League,Liberty League,Liberty League,Liberty League,Liberty League,Liberty League,,Liberty League,Liberty League,Liberty League
+212009,Division III,Dickinson College,Dickinson,Centennial,Centennial,Centennial,Centennial,Centennial,Centennial,Centennial,,Centennial,Centennial,Centennial
+144962,Division III,Elmhurst College,Elmhurst,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW,,CCIW,CCIW,CCIW
+150756,Division III,Hanover College,Hanover,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC
+151777,Division III,Manchester College,Manchester,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC,HCAC
+239071,Division III,Maranatha Baptist Bible College,Maranatha Baptist,DIII Independent,DIII Independent,DIII Independent,DIII Independent,,,,,,,
+168342,Division III,Williams College,Williams,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,,NESCAC,NESCAC,NESCAC
+153108,Division III,Central College,Central (IA),IA American Rivers,IA American Rivers,IA American Rivers,IA American Rivers,IA American Rivers,IA American Rivers,IA American Rivers,IA American Rivers,IA American Rivers,IA American Rivers,IA American Rivers
+168148,Division III,Tufts University,Tufts,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,,NESCAC,NESCAC,NESCAC
+173902,Division III,Macalester College,Macalester,DIII Independent,MWC,MWC,MWC,MWC,MWC,MWC,,MIAC,MIAC,MIAC
+184782,Division III,Rowan University,Rowan,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC,,NJAC,NJAC,NJAC
+239716,Division III,Saint Norbert College,St. Norbert,MWC,MWC,MWC,MWC,MWC,MWC,MWC,,NACC,NACC,NACC
+204501,Division III,Oberlin College,Oberlin,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,,NCAC,NCAC,NCAC
+167260,Division III,Nichols College,Nichols,CCC Football,CCC Football,CCC Football,CCC Football,CCC,CCC Football,CCC Football,,CCC Football,CCC,CCC Football
+240268,Division III,University of Wisconsin-Eau Claire,Wis.-Eau Claire,WIAC,WIAC,WIAC,WIAC,WIAC,WIAC,WIAC,,WIAC,WIAC,WIAC
+203535,Division III,Kenyon College,Kenyon,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,,NCAC,NCAC,NCAC
+191968,Division III,Ithaca College,Ithaca,Empire 8,Empire 8,Empire 8,Empire 8,Liberty League,Liberty League,Liberty League,,Liberty League,Liberty League,Liberty League
+121345,Division III,Pomona College,Pomona-Pitzer,SCIAC,SCIAC,SCIAC,SCIAC,SCIAC,SCIAC,SCIAC,,SCIAC,SCIAC,SCIAC
+146427,Division III,Knox College,Knox,MWC,MWC,MWC,MWC,MWC,MWC,MWC,,MWC,MWC,MWC
+164720,Division III,Becker College,Becker,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,CCC Football,CCC Football,CCC Football,,,,
+228343,Division III,Southwestern University,Southwestern (TX),TX SCAC,TX SCAC,TX SCAC,TX SCAC,TX ASC,TX ASC,TX ASC,TX ASC,TX ASC,TX ASC,TX SAA
+183080,Division III,Plymouth State University,Plymouth St.,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,MASCAC,,MASCAC,MASCAC,MASCAC
+238476,Division III,Carthage College,Carthage,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW,CCIW
+185262,Division III,Kean University,Kean,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC
+204264,Division III,Muskingum College,Muskingum,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC
+191515,Division III,Hamilton College,Hamilton,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,,NESCAC,NESCAC,NESCAC
+185590,Division III,Montclair State University,Montclair St.,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC
+230834,Division III,Castleton State College,VTSU Castleton,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,,Eastern Collegiate Football Conference,,Eastern Collegiate Football Conference
+238333,Division III,Beloit College,Beloit,MWC,MWC,MWC,MWC,MWC,MWC,MWC,,MWC,MWC,MWC
+161004,Division III,Bowdoin College,Bowdoin,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,NESCAC,,NESCAC,NESCAC,NESCAC
+240329,Division III,University of Wisconsin-La Crosse,Wis.-La Crosse,WIAC,WIAC,WIAC,WIAC,WIAC,WIAC,WIAC,,WIAC,WIAC,WIAC
+204936,Division III,Otterbein University,Otterbein,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC,OAC
+201645,Division III,Case Western Reserve University,CWRU,UAA,PAC,PAC,PAC,PAC,PAC,PAC,,PAC,PAC,PAC
+187134,Division III,The College of New Jersey,TCNJ,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC,NJAC,,NJAC,NJAC,NJAC
+236328,Division III,University of Puget Sound,Puget Sound,NWC,NWC,NWC,NWC,NWC,NWC,NWC,NWC,NWC,NWC,NWC
+144050,Division III,University of Chicago,UChicago,UAA,DIII Independent,UAA,SAA,MWC,MWC,MWC,,MWC,MWC,MWC
+231420,Division III,Averett University,Averett,USA South,USA South,USA South,USA South,USA South,USA South,USA South,USA South,USA South,ODAC,ODAC
+146481,Division III,Lake Forest College,Lake Forest,MWC,MWC,MWC,MWC,MWC,MWC,MWC,MWC,MWC,MWC,MWC
+150066,Division III,Anderson University,Anderson (IN),IN HCAC,IN HCAC,IN HCAC,IN HCAC,IN HCAC,IN HCAC,IN HCAC,IN HCAC,IN HCAC,IN HCAC,IN HCAC
+487524,Division III,Husson University,Husson,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,CCC Football,,CCC Football,CCC,CCC Football
+153384,Division III,Grinnell College,Grinnell,MWC,MWC,MWC,MWC,MWC,MWC,MWC,,MWC,MWC,MWC
+203128,Division III,Hiram College,Hiram,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,,NCAC,NCAC,NCAC
+168591,Division III,Alma College,Alma,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.,Michigan Intercol. Ath. Assn.
+139144,Division III,Berry College,Berry,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA,SAA
+210669,Division III,Allegheny College,Allegheny,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,NCAC,,NCAC,PAC,PAC
+153825,Division III,Loras College,Loras,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers,American Rivers
+208822,Division III,George Fox University,George Fox,,NWC,NWC,NWC,NWC,NWC,NWC,NWC,NWC,NWC,NWC
+172440,Division III,Finlandia University,Finlandia,,,DIII Independent,DIII Independent,,,Michigan Intercol. Ath. Assn.,,UMAC,UMAC,
+233611,Division III,Southern Virginia University,Southern Va.,,,,NJAC,NJAC,NJAC,ODAC,ODAC,USA South,USA South,USA South
+153621,Division III,Iowa Wesleyan College,Iowa Wesleyan,,,,,,UMAC,UMAC,UMAC,,,
+196006,Division III,SUNY College of Technology at Alfred,Alfred St.,,,,,,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference
+226587,Division III,McMurry University,McMurry,,,,,,ASC,ASC,ASC,ASC,ASC,ASC
+161457,Division III,University of New England,U New England,,,,,,CCC Football,CCC Football,,CCC Football,CCC,CCC Football
+175421,Division III,Belhaven University,Belhaven,,,,,,ASC,ASC,ASC,ASC,USA South,USA South
+210775,Division III,Alvernia University,Alvernia,,,,,,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic,Middle Atlantic
+198066,Division III,Brevard College,Brevard,,,,,,,,USA South,USA South,USA South,USA South
+165574,Division III,Dean College,Dean,,,,,,,,,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference
+213303,Division III,Keystone College,Keystone,,,,,,,,,Eastern Collegiate Football Conference,Eastern Collegiate Football Conference,Landmark
+191621,Division III,Hilbert College,Hilbert,,,,,,,,,,DIII Independent,DIII Independent
+212133,Division III,Eastern University,Eastern,,,,,,,,,,,Middle Atlantic
